@@ -125,9 +125,6 @@ Une fois l'application démarrée, ouvrez votre navigateur et accédez à l'adre
 http://localhost:8085/login
 ```
 
-- **Email**    : hamza@gmail.com
-- **Password** : 123
-
 Vous verrez l'interface utilisateur du Gestionnaire de Tâches.
 - **Page index** 
 
